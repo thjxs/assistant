@@ -1,4 +1,4 @@
-export default [
+const array = [
   {
     name: '秀红',
     rgb: '77,25,25',
@@ -1256,3 +1256,5 @@ export default [
     rgb: '206,213,189',
   },
 ]
+
+export default array
